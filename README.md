@@ -1,5 +1,5 @@
 # Tech Shop - Loja Virtual 🛒💻🎧⌚📱
-Projeto de página web para uma loja de eletrônicos, feito com HTML e CSS puros, focado em design limpo e responsivo. 
+Projeto de página web para uma loja de eletrônicos, feito com HTML5 e CSS3 puros, focado em design limpo e responsivo. 
 
 O que tem:
 - Header fixo com logo e menu.
